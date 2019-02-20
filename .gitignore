@@ -1,6 +1,10 @@
 # node modules
 /node_modules
 
+# lockfiles
+package-lock.json
+
+
 # environment vars
 .env
 
